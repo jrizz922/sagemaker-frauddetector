@@ -1,0 +1,15 @@
+{
+  "CloudformationStackARN": "arn:aws:cloudformation:us-west-2:925905381841:stack/SC-925905381841-pp-teih74gwhcqlq/cee64320-73f9-11eb-be9b-06427eda73c1",
+  "FraudStackName": "SC-925905381841-pp-teih74gwhcqlq",
+  "AwsAccountId": "925905381841",
+  "FirehoseDeliveryStreamArn": "arn:aws:firehose:us-west-2:925905381841:deliverystream/sagemaker-soln-fdml-js-klemm6ql-firehose-stream",
+  "AwsRegion": "us-west-2",
+  "IamRole": "arn:aws:iam::925905381841:role/service-role/AmazonSageMakerServiceCatalogProductsUseRole",
+  "SolutionsS3Bucket": "sagemaker-solutions-prod",
+  "ModelDataBucket": "sagemaker-soln-fdml-js-klemm6ql-925905381841-md",
+  "DemoEndpointName": "DemoEndpointStack.Outputs.EndpointName",
+  "SolutionPrefix": "sagemaker-soln-fdml-js-klemm6ql",
+  "RESTAPIGateway": "lx31qxia30",
+  "SolutionName": "Fraud-detection-using-machine-learning",
+  "SagemakerMode": "Studio"
+}
